@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831459053347",
+    "project_id": "friute-b7390",
+    "storage_bucket": "friute-b7390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831459053347:android:0ea8645d233a6c72858696",
+        "android_client_info": {
+          "package_name": "com.example.fruit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3sMRmlx4wJK2Lh4ra2Hb1c6AZGzfYeZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831459053347:android:17f3aa91730d1d20858696",
+        "android_client_info": {
+          "package_name": "com.hoda.fruite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3sMRmlx4wJK2Lh4ra2Hb1c6AZGzfYeZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
